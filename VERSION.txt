@@ -1,0 +1,11 @@
+---=== 1.01 ===---
+* Tooltip - 'Timestamp:' Modify
+	- Change to "Game Start Time: <WWW MMM DD HH:MM:SS YYYY>" from "Timestamp: <Timestamp raw infomation>"
+	= Next To Do: "Game Time: about MM" NOT "Game Start Time"
+
+---=== 1.0 ===---
+* Tooltip String Parsing.
+	- Tooltip string parse each contents. but it is contain all of packet(contain useless infomation).
+
+---=== 0.1 ===---
+* Create plugin source
