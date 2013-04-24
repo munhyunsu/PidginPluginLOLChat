@@ -1,3 +1,14 @@
+---=== 1.01b ===---
+* Tooltip String last word '\n' delete
+* Tooltip String Memory management advenced
+	- Ending tooltip drawing process, free chat* memory.
+* Offine Buddy tooltip string fix
+	- Change to adjust string like "Status: Offline\nSub..." from "Status...\nSub...\nSub..."(Duplicate Subscription Section)
+
+---=== 1.01a ===---
+* Hmm, What I doing?
+	- I think just bug fix
+
 ---=== 1.01 ===---
 * Tooltip - 'Timestamp:' Modify
 	- Change to "Game Start Time: <WWW MMM DD HH:MM:SS YYYY>" from "Timestamp: <Timestamp raw infomation>"
